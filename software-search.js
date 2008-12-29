@@ -1,6 +1,6 @@
 CmdUtils.CreateCommand({
   name: "software-search",
-  homepage: "http://ux.suse.de/~garrett/public/ubiquity/software-search/",
+  homepage: "http://garrett.github.com/ubiquity-software-search/",
   author: { name: "Garrett LeSage", email: "garrett@novell.com"},
   license: "MPL",
   description: "Searches software.openSUSE.org on the selected text (or any custom string).",

@@ -11,7 +11,7 @@ CmdUtils.CreateCommand({
     var url = {
       // XHR response URL
       template: "http://software.opensuse.org/search/search?baseproject={BASE}&commit=Search&q={QUERY}",
-      base: "ALL",
+      base: "SUSE:SLES-9",
       query: directObject.text
     };
 
